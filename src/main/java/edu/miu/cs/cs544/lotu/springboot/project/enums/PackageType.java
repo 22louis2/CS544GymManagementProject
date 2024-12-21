@@ -1,5 +1,5 @@
 package edu.miu.cs.cs544.lotu.springboot.project.enums;
 
-public enum Type {
+public enum PackageType {
     BASIC, PREMIUM, FAMILY, STUDENT, SENIOR
 }
